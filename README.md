@@ -1,2 +1,2 @@
 # HackerRank-Js
-Hacker Rank challenges
+Hacker Rank challenges.
