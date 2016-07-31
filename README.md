@@ -9,7 +9,7 @@ Then type "webpack --colors --progress" to use webpack and see the changes in th
 
 Open index.html in your browser (This app is tested on Google Chrome).
 
-
+Considerations:
 
 The code is in the "src/js/" directory. The output file should go to "src/out/bundle.js".
 
